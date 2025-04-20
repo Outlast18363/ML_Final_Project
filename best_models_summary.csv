@@ -1,0 +1,5 @@
+Model Type,MSE,Hyperparameters
+lasso_linear,0.006778783806543107,{'alpha': 0.001}
+lasso_polynomial,0.0021793427018094178,{'alpha': 0.01}
+gradient_boosting,0.0018433824123056017,"{'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 100, 'subsample': 0.8}"
+decision_tree,0.007764808631882282,"{'max_depth': 10, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 10}"
